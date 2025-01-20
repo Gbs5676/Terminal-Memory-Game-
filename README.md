@@ -18,5 +18,5 @@ This is a simple memory game implemented in Go. The objective of the game is to 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/memory-game.git
+   git clone https://github.com/Gbs5676/Terminal-Memory-Game-.git
    cd memory-game
